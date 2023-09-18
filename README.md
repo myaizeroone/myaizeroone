@@ -19,8 +19,8 @@ This repo serves as the central hub of my journey into the world of AI, Data Sci
 **Daily_Logs:** My day-to-day ramblings and learnings.
 **Projects:** Where the big guns are! Full projects, mostly completed, but some, well... you'll see.
 **Datasets:** Bunch of data. Mostly harmless.
-Core Values 💖
 
+**Core Values 💖**
 **Lifelong Learning:** Because the learning never stops.
 **Accessibility:** Making tech easy for you and me.
 **Excellence:** Striving to be better, every single day.
